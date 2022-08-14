@@ -3,7 +3,7 @@
 <img align = "right" alt="Coding" width = "400" src ="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.18169-9/10660152_860734540613211_4127161137406121404_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHhIPaAbv0yBRMYuO9-RnYbToTb4AbZg_JOhNvgBtmD8s9o3Uyov6x1gQk3BXj_oYbq6r1rl_VSlGMcVbB1jpxz&_nc_ohc=YTnaPMa0XaAAX-Gr8Jg&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9dNSG6lUzDz7cA0N40v65uuJRNECYZRE2g4zinWhSGEg&oe=631B8D65" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlarabbi2&label=Profile%20views&color=0e75b6&style=flat" alt="fazlarabbi2" /> </p>
 
-- 🔭 I’m currently working on Deep Learning **Thesis**
+- 🔭 I’m currently working on Deep Learning on **Thesis related work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
