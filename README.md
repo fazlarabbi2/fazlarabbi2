@@ -5,10 +5,9 @@ I'm a passionate Full Stack DotNet Developer with a love for learning and explor
 ## 🔧 Technologies & Tools
 
 - **Languages:** C#, C++, Java, Python
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure, Google Cloud
+- **Frameworks:** Dotnet, Angular, Bootstrap
+- **Databases:** SQL Server, Postgres
+- **Tools:** Git, Docker, Git Lab
 
 ## 📈 GitHub Stats
 
