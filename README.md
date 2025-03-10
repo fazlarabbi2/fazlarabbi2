@@ -11,7 +11,7 @@ I'm a passionate Full Stack DotNet Developer with a love for learning and explor
 
 ## 📈 GitHub Stats
 
-![Fozle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlarabbi2&show_icons=true&theme=radical)
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Stats&query=%24&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffazlarabbi2)
 
 
 ## 🌱 Learning and Growth
